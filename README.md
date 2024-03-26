@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Random icons:
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pycharm,visualstudio)](https://skillicons.dev)
